@@ -9,6 +9,7 @@
 
 
 ![](https://github.com/zalimpshigotizhev/consoleTelephoneDir/blob/main/data/picture/intro.png)
+![](https://github.com/zalimpshigotizhev/consoleTelephoneDir/blob/main/data/picture/python39.png)
 ![](https://github.com/zalimpshigotizhev/consoleTelephoneDir/blob/main/data/picture/list_persons.png)
 ## Еще немного про проект.
 - Пагинация осуществлена с помощью итераторов класса.
