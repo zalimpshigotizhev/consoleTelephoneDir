@@ -10,3 +10,9 @@
 
 ![](https://github.com/zalimpshigotizhev/consoleTelephoneDir/blob/main/data/picture/intro.png)
 ![](https://github.com/zalimpshigotizhev/consoleTelephoneDir/blob/main/data/picture/list_persons.png)
+## Еще немного про проект.
+- Пагинация осуществлена с помощью итераторов класса.
+- Если есть желание посмотреть или создать свой файл csv, то будьте бдительны положение имеет значение (Смотрите пример в `./data/data.csv`)
+- Можно выборочно изменить данные человека в справочнике.
+
+![](https://github.com/zalimpshigotizhev/consoleTelephoneDir/blob/main/data/picture/get_person.png)
